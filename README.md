@@ -28,6 +28,6 @@ To run the code, follow these steps:
 * C++ compiler (e.g., MSVC)
 * Standard Template Library (STL)
 
-# Acknowledgements
-We would like to acknowledge the contributions of Almog Khaikin for their collaboration and efforts in this project.
-Working together, we were able to achieve successful results and advance our understanding of clustering algorithms.
+# Authors
+Almog Khaikin
+Nir Betesh
