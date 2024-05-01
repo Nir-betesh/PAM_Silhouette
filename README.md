@@ -29,5 +29,5 @@ To run the code, follow these steps:
 * Standard Template Library (STL)
 
 # Authors
-Almog Khaikin
-Nir Betesh
+* Almog Khaikin
+* Nir Betesh
